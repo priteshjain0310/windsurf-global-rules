@@ -1,5 +1,5 @@
-# Here is my windsurf global rules config that gives me very good quality work using Sonnet and GPT models. 
-# I work mostly Gen AI and classifical machine and deep learning projects. Sometimes a bit of backend or fronted. 
+Here is my windsurf global rules config that gives me very good quality work using Sonnet and GPT models. 
+I work mostly Gen AI and classifical machine and deep learning projects. Sometimes a bit of backend or fronted. 
 
 Agnostic Rules:
 
