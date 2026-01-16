@@ -30,8 +30,8 @@ Rules for python code:
     Use pep8 style guideline
     Organize all imports at the top of the file
     Follow Ruff rules for code quality
-    Pyproject.toml and Poetry should be used for dependency management
-    UV should be used for dependency installation
+    Pyproject.toml should be used for dependency management, test config, linting rules, etc.
+    Poetry should be used for dependency installation and running the code. 
     Dockerfile must be created for deployment to AWS Lambda
     Dockerfile should be optimized for size
     Streamlit frontend could be created for local testing
